@@ -3,7 +3,7 @@ import sqlite3
 import random
 
 # Bot tokenini o'rnating
-API_TOKEN = '7862259394:AAEa6K0__-9CzuTHyIS6jT1vLeZGB9Hm2NE'
+API_TOKEN = 'token'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Ma'lumotlar bazasi bilan ishlash
